@@ -285,5 +285,3 @@ from
 where 
   Current_brands = 'CodeX' 
 order by 2 desc;
-
-
